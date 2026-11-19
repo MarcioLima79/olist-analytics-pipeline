@@ -8,7 +8,7 @@ Projeto de estudo em Análise e Engenharia de Dados: um pipeline ETL local, feit
 
 O dataset reúne informações de pedidos de uma plataforma brasileira de e-commerce: pedidos, itens, clientes, produtos, vendedores, pagamentos, avaliações e localização geográfica.
 
-Os arquivos de dados **não são versionados** neste repositório. Veja [Como executar](#como-executar) para obter os dados. Confira a licença do dataset na página do Kaggle antes de publicar qualquer amostra.
+Os arquivos de dados **não são versionados** neste repositório. O dataset é disponibilizado sob a licença [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), que exige atribuição, restringe o uso comercial e requer que adaptações compartilhadas mantenham a mesma licença. Consulte os termos antes de redistribuir amostras. Veja [Como executar](#como-executar) para obter os dados.
 
 ## Perguntas de negócio
 
