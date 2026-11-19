@@ -32,7 +32,7 @@ Os arquivos de dados **não são versionados** neste repositório. Veja [Como ex
 
 ## Arquitetura
 
-![Arquitetura do pipeline](docs/arquitetura.png)
+![Arquitetura do pipeline](docs/pipeline.svg)
 
 - **Bronze:** dados originais em Parquet, sem alteração de conteúdo.
 - **Silver:** dados limpos, padronizados e validados, tabela por tabela.
